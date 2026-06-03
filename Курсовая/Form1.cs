@@ -11,8 +11,8 @@ namespace Курсовая
         // Поля класса для хранения данных 
         private double[] x;
         private double[] y;
-        private string currentFilePath = ""; 
-
+        private string currentFilePath = "";
+        int a = 5;
         public Form1()
         {
             InitializeComponent();
